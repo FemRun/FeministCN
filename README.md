@@ -6,8 +6,6 @@
 
 https://github.com/FemRun/FeministCN/blob/main/Twitter.md
 
-豆瓣家园转生Reddit
+转生Reddit
 
 https://github.com/FemRun/FeministCN/blob/main/Reddit.md
-
-tbc
