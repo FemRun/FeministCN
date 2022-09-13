@@ -9,3 +9,5 @@ https://github.com/FemRun/FeministCN/blob/main/Twitter.md
 转生Reddit
 
 https://github.com/FemRun/FeministCN/blob/main/Reddit.md
+
+与全球女性交流的纯英文女权社群，关键词：thepinkpill
